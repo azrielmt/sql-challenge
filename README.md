@@ -8,6 +8,6 @@
 
 # There is a separate SQL file for the table creations only.
 
-# That specific folder also has a picture of the ERD created, as well as a text document that shows.
+# That specific folder also has a picture of the ERD created, as well as a text document that shows. QuickDBD was used to create the ERD.
 
 # I would like some comments on primary keys please, I feel as though I may have not done that 100% so please let me know.
