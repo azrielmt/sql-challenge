@@ -95,7 +95,7 @@ AND last_name Like 'B%'
 
 -- 6. List each employee in the Sales department, including their employee number, last name, and first name.
 
-SELECT departments.dept_name, employees.last_name, employees.first_name
+SELECT departments.dept_name, employees.emp_no, employees.last_name, employees.first_name
 FROM dept_emp
 JOIN employees
 ON dept_emp.emp_no = employees.emp_no
